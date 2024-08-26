@@ -1,0 +1,14 @@
+C:\Project\examples\bin\Debug\net8.0\examples.exe
+C:\Project\examples\bin\Debug\net8.0\examples.deps.json
+C:\Project\examples\bin\Debug\net8.0\examples.runtimeconfig.json
+C:\Project\examples\bin\Debug\net8.0\examples.dll
+C:\Project\examples\bin\Debug\net8.0\examples.pdb
+C:\Project\examples\obj\Debug\net8.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\examples\obj\Debug\net8.0\examples.AssemblyInfoInputs.cache
+C:\Project\examples\obj\Debug\net8.0\examples.AssemblyInfo.cs
+C:\Project\examples\obj\Debug\net8.0\examples.csproj.CoreCompileInputs.cache
+C:\Project\examples\obj\Debug\net8.0\examples.dll
+C:\Project\examples\obj\Debug\net8.0\refint\examples.dll
+C:\Project\examples\obj\Debug\net8.0\examples.pdb
+C:\Project\examples\obj\Debug\net8.0\examples.genruntimeconfig.cache
+C:\Project\examples\obj\Debug\net8.0\ref\examples.dll
